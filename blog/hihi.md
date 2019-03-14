@@ -1,6 +1,6 @@
 ---
-path: /blog/hien
+path: /hien
 date: '2019-03-14'
-title: Hien
+title: hihihi
 ---
-# hello guys
+#
